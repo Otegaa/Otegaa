@@ -59,11 +59,11 @@
 <h2 align="center">💹 Most Popular Repos 💹</h2>
 <br>
 <p align="center">
-<a href="https://github.com/Otegaa/IWES-Conference-2023">
+<a href="https://github.com/Otegaa/IWES-Conference-2023/">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Otegaa&repo=IWES-Conference-2023&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
   
-<a href="https://github.com/Otegaa/setup-and-mobile-first">
+<a href="https://github.com/Otegaa/setup-and-mobile-first/">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Otegaa&repo=setup-and-mobile-first&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
